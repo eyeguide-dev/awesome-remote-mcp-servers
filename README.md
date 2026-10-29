@@ -3519,7 +3519,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
 - [Speakvora](https://speakvora.com) `https://speakvora.com/api/mcp`
   [![Speakvora MCP connector](https://glama.ai/mcp/connectors/io.github.eyeguide-dev/speakvora/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eyeguide-dev/speakvora)
-  🔑 - Text to speech, voice listing and search over a library of ready-made industry phrases.
+  🔓 - Text to speech, voice listing and search over a library of ready-made industry phrases. The connection and tool list are open; speaking needs a Speakvora API key.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
